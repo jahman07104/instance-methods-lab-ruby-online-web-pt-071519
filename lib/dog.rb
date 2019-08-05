@@ -1,7 +1,7 @@
 class Dog
   def bark
-    fido.bark
-    puts "Woof!"
-    fido.sit
+    .bark
+   puts "Woof!"
+    .sit
   end
 end
