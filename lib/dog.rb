@@ -5,3 +5,9 @@ class Dog
    
   end
 end
+ def sit
+    
+   puts ""
+   
+  end
+end
